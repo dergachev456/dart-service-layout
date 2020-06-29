@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dart-service-layout/frontend/static/css/main.d580718f.chunk.css",
+    "main.js": "/dart-service-layout/frontend/static/js/main.6875fae1.chunk.js",
+    "main.js.map": "/dart-service-layout/frontend/static/js/main.6875fae1.chunk.js.map",
+    "runtime-main.js": "/dart-service-layout/frontend/static/js/runtime-main.b86c31c7.js",
+    "runtime-main.js.map": "/dart-service-layout/frontend/static/js/runtime-main.b86c31c7.js.map",
+    "static/css/2.a33d7f97.chunk.css": "/dart-service-layout/frontend/static/css/2.a33d7f97.chunk.css",
+    "static/js/2.a3d581ee.chunk.js": "/dart-service-layout/frontend/static/js/2.a3d581ee.chunk.js",
+    "static/js/2.a3d581ee.chunk.js.map": "/dart-service-layout/frontend/static/js/2.a3d581ee.chunk.js.map",
+    "index.html": "/dart-service-layout/frontend/index.html",
+    "precache-manifest.9c67280f13f4dd137f537d0ddb6b6f6b.js": "/dart-service-layout/frontend/precache-manifest.9c67280f13f4dd137f537d0ddb6b6f6b.js",
+    "service-worker.js": "/dart-service-layout/frontend/service-worker.js",
+    "static/css/2.a33d7f97.chunk.css.map": "/dart-service-layout/frontend/static/css/2.a33d7f97.chunk.css.map",
+    "static/css/main.d580718f.chunk.css.map": "/dart-service-layout/frontend/static/css/main.d580718f.chunk.css.map",
+    "static/js/2.a3d581ee.chunk.js.LICENSE.txt": "/dart-service-layout/frontend/static/js/2.a3d581ee.chunk.js.LICENSE.txt",
+    "static/media/WelcomeBlock.scss": "/dart-service-layout/frontend/static/media/bg1.9db900cb.png",
+    "static/media/poster.png": "/dart-service-layout/frontend/static/media/poster.32142661.png",
+    "static/media/video.mp4": "/dart-service-layout/frontend/static/media/video.f376af1c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b86c31c7.js",
+    "static/css/2.a33d7f97.chunk.css",
+    "static/js/2.a3d581ee.chunk.js",
+    "static/css/main.d580718f.chunk.css",
+    "static/js/main.6875fae1.chunk.js"
+  ]
+}
