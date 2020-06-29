@@ -1,0 +1,60 @@
+.welcome {
+    &__wrapper {
+        background: url(../../images/backgrounds/bg1.png);
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    &__container {
+        max-width: 1600px;
+        border-left: 1px solid #000;
+        border-right: 1px solid #000;
+        margin: 0 auto;
+        min-height: 100vh;
+    }
+
+    &__main {
+        display: flex;
+        padding-top: 158px;
+        padding-bottom: 185px;
+
+        & .video {
+            margin-top: 8px;
+            margin-left: auto;
+            margin-right: 78/1600 * 100%;
+            border-radius: 5px;
+            border: solid 1px #061e37;
+
+            // border: solid 1px #061e37;
+        }
+    }
+
+    &__info {
+        display: flex;
+        flex-direction: column;
+        max-width: 655px;
+        padding-left: 76px;
+
+    }
+
+    &__info-title {
+        font-size: 55px;
+        font-weight: 800;
+        color: #fff;
+        text-transform: uppercase;
+        line-height: 1.18;
+        letter-spacing: 0.09rem;
+
+    }
+
+    &__info-text {
+        font-size: 18px;
+        line-height: 35px;
+        color: #fff;
+        line-height: 1.94;
+        padding-top: 8px;
+    }
+
+
+}
