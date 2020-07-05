@@ -1,19 +1,18 @@
 import './App.scss';
 import React, { Component } from 'react'
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
-import WelcomeBlock from './pages/WelcomeBlock/WelcomeBlock';
+import { HashRouter, Route, Switch } from 'react-router-dom'
+import WelcomeSection from './sections/WelcomeSection/WelcomeSection';
+import ToolSection from './sections/ToolSection/ToolSection';
 
 
 export default class App extends Component {
   render() {
     return (
-      <div className="main-wrapper">
-        <BrowserRouter>
-          <Switch>
-            <Route path="/" component={WelcomePage} />
-          </Switch>
-        </BrowserRouter>
-      </div>
+      <HashRouter>
+        <Switch>
+          <Route path="/" component={WelcomePage} />
+        </Switch>
+      </HashRouter>
     )
   }
 }
@@ -22,8 +21,9 @@ export default class App extends Component {
 function WelcomePage() {
   return (
     <>
-      <WelcomeBlock />
-      <div style={{width: "100%", height: "600px"}} className="test te"></div>
+      <WelcomeSection />
+      <ToolSection />
+      <div style={{height: "300px", background: "tomato"}} />
     </>
   )
 }
