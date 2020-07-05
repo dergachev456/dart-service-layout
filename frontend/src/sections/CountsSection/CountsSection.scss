@@ -1,0 +1,46 @@
+.counts {
+    width: 100%;
+    display: flex;
+    & .count {
+        width: 25%;
+        min-height: 150px;
+
+        &__content-container {
+            display: flex;
+            position: relative;
+        }
+        &__content {
+            margin:  0 auto;
+            margin-top: 45px;
+            margin-bottom: 45px;
+            min-height: 60px;
+            display: flex;
+        }
+        &__circle {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 60px;
+            border-radius: 50px;
+            background-color: #fff;
+        }
+
+        &__image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+        }
+
+        &__text {
+            font-size: 20px;
+            font-weight: 800;
+            line-height: 1.25;
+            color: #ffffff;
+            margin-left: 20px;
+            margin-top: 4px;
+        }
+    }
+}
