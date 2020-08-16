@@ -1,0 +1,15 @@
+.services {
+    text-align: center;
+    padding-top: 89px;
+
+    &__wrapper {
+        max-width: 1600px;
+        margin: 0 auto;
+    }
+    &__text {
+        display: block;
+        max-width: 565px;
+        margin: 0 auto;
+        margin-top: 19px;
+    }
+}

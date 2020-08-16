@@ -10,9 +10,9 @@ export default function ToolSection() {
         <section className="tool">
             <div className="tool__wrapper">
                 <div className="tool__title-container">
-                    <h2 className="tool__title">Easy & Useful</h2>
+                    <h2 className="title">Easy & Useful</h2>
                     <h3 className="tool__subtitle">Project Management Tool</h3>
-                    <p className="tool__text">
+                    <p className="tool__text text">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                     </p>

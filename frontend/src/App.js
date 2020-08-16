@@ -4,6 +4,7 @@ import { HashRouter, Route, Switch } from 'react-router-dom'
 import WelcomeSection from './sections/WelcomeSection/WelcomeSection';
 import ToolSection from './sections/ToolSection/ToolSection';
 import CountsSection from './sections/CountsSection/CountsSection';
+import ServicesSection from './sections/ServicesSection/ServicesSection';
 
 export default class App extends Component {
   render() {
@@ -24,6 +25,7 @@ function WelcomePage() {
       <WelcomeSection />
       <ToolSection />
       <CountsSection />
+      <ServicesSection />
       <div style={{height: "300px", background: "tomato"}} />
     </>
   )
