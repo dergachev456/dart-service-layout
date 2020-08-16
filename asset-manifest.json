@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/dart-service-layout/static/css/main.53f03723.chunk.css",
-    "main.js": "/dart-service-layout/static/js/main.d79de32f.chunk.js",
-    "main.js.map": "/dart-service-layout/static/js/main.d79de32f.chunk.js.map",
+    "main.css": "/dart-service-layout/static/css/main.ec8c23cb.chunk.css",
+    "main.js": "/dart-service-layout/static/js/main.92787ae4.chunk.js",
+    "main.js.map": "/dart-service-layout/static/js/main.92787ae4.chunk.js.map",
     "runtime-main.js": "/dart-service-layout/static/js/runtime-main.cb72058f.js",
     "runtime-main.js.map": "/dart-service-layout/static/js/runtime-main.cb72058f.js.map",
     "static/css/2.a33d7f97.chunk.css": "/dart-service-layout/static/css/2.a33d7f97.chunk.css",
-    "static/js/2.0600d700.chunk.js": "/dart-service-layout/static/js/2.0600d700.chunk.js",
-    "static/js/2.0600d700.chunk.js.map": "/dart-service-layout/static/js/2.0600d700.chunk.js.map",
+    "static/js/2.abb3cb42.chunk.js": "/dart-service-layout/static/js/2.abb3cb42.chunk.js",
+    "static/js/2.abb3cb42.chunk.js.map": "/dart-service-layout/static/js/2.abb3cb42.chunk.js.map",
     "index.html": "/dart-service-layout/index.html",
-    "precache-manifest.953f7f884b91541fd2b3f0ff275ad091.js": "/dart-service-layout/precache-manifest.953f7f884b91541fd2b3f0ff275ad091.js",
+    "precache-manifest.71593ab147d22047b5dfe0845fd3a199.js": "/dart-service-layout/precache-manifest.71593ab147d22047b5dfe0845fd3a199.js",
     "service-worker.js": "/dart-service-layout/service-worker.js",
     "static/css/2.a33d7f97.chunk.css.map": "/dart-service-layout/static/css/2.a33d7f97.chunk.css.map",
-    "static/css/main.53f03723.chunk.css.map": "/dart-service-layout/static/css/main.53f03723.chunk.css.map",
-    "static/js/2.0600d700.chunk.js.LICENSE.txt": "/dart-service-layout/static/js/2.0600d700.chunk.js.LICENSE.txt",
+    "static/css/main.ec8c23cb.chunk.css.map": "/dart-service-layout/static/css/main.ec8c23cb.chunk.css.map",
+    "static/js/2.abb3cb42.chunk.js.LICENSE.txt": "/dart-service-layout/static/js/2.abb3cb42.chunk.js.LICENSE.txt",
     "static/media/WelcomeSection.scss": "/dart-service-layout/static/media/bg1.9db900cb.png",
     "static/media/poster.png": "/dart-service-layout/static/media/poster.32142661.png",
+    "static/media/services.png": "/dart-service-layout/static/media/services.8217b64b.png",
     "static/media/video.mp4": "/dart-service-layout/static/media/video.f376af1c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.cb72058f.js",
     "static/css/2.a33d7f97.chunk.css",
-    "static/js/2.0600d700.chunk.js",
-    "static/css/main.53f03723.chunk.css",
-    "static/js/main.d79de32f.chunk.js"
+    "static/js/2.abb3cb42.chunk.js",
+    "static/css/main.ec8c23cb.chunk.css",
+    "static/js/main.92787ae4.chunk.js"
   ]
 }
