@@ -1,6 +1,7 @@
 import React from 'react'
 import './AboutUsSection.scss';
 import { CustomLink } from '../../components/CustomLink/CustomLink';
+import CommentsSlider from '../../components/CommentsSlider/CommentsSlider';
 
 export default function AboutUsSection() {
     return (
@@ -18,6 +19,9 @@ export default function AboutUsSection() {
                         >
                             Get started
                         </CustomLink>
+                    </div>
+                    <div className="about__slider">
+                        <CommentsSlider />
                     </div>
                 </div>
             </div>
