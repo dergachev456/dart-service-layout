@@ -1,0 +1,41 @@
+.about {
+    background: url(../../images/backgrounds/bg2.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    &__wrapper {
+        max-width: 1600px;
+        margin: 0 auto;
+    }
+
+    &__main {
+        display: flex;
+    }
+
+    &__info {
+        padding-left: 80 / 1600 * 100%;
+    }
+
+    &__title {
+        color: #fff;
+        font-weight: 400;
+        font-size: 45px;
+        padding-top: 115px;
+    }
+
+    &__text {
+        color: #fff;
+        line-height: 1.67;
+        font-size: 15px;
+        margin-top: 17px;
+        max-width: 515px;
+    }
+    
+    &__button {
+        background: #061e37;
+        color: #ffffff;
+        margin-top: 71px;
+        padding: 22px 26px;
+    }
+}
